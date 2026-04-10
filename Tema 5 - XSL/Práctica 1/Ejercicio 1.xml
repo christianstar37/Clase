@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-15"?>
-<?xml-stylesheet href="Ejercicio 1.xsl" type="text/xsl"?>
+<?xml-stylesheet href="Ejercicio 1-1.xsl" type="text/xsl"?>
 <root xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" id="18140" version="1.0" xsi:noNamespaceSchemaLocation="https://www.aemet.es/xsd/localidades.xsd">
   <origen>
     <productor>Agencia Estatal de Meteorolog�a - AEMET. Gobierno de Espa�a</productor>

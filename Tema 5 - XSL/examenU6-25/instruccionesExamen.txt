@@ -1,0 +1,2 @@
+
+1.- El ejercicio 1 se basa en crear una estructura xslt en el archivo ej1.xsl para que del documento hitchcock.xml se genere la estructura html para que se vea todo tal como aparece en la imagen ej1.png. 
