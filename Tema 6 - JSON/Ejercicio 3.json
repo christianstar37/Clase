@@ -1,0 +1,62 @@
+{
+  "nombre": "Los Ángeles Lakers",
+  "colorEquipacion": ["Blanco", "Dorado", "Púrpura"],
+  "nombreEstadio": "Crypto.com Arena",
+  "nombreEntrenador": "JJ Redick",
+  "plantillaHistorica": true,
+  "web": "https://www.nba.com/lakers/los-lakers-homepage",
+  "jugadores": {
+    "base": [
+      {
+      "nombre": "Luka Doncic",
+      "dorsal": 77
+      },
+      {
+      "nombre": "D'Angello Russell",
+      "dorsal": 1
+      },
+      {
+      "nombre": "Gabe Vincent",
+      "dorsal": 7
+      }
+    ],
+    "alero": [
+      {
+      "nombre": "LeBron James",
+      "dorsal": 23
+      },
+      {
+      "nombre": "Rui Hachimura",
+      "dorsal": 28
+      },
+      {
+      "nombre": "Jarred Vanderbilt",
+      "dorsal": 2
+      }
+    ],
+    "pivot": [
+      {
+      "nombre": "Deandre Ayton",
+      "dorsal": 5
+      },
+      {
+      "nombre": "Anthony Davis",
+      "dorsal": 3
+      },
+      {
+      "nombre": "Christian Wood",
+      "dorsal": 55
+      }
+    ],
+    "escolta": [
+      {
+      "nombre": "Austin Reaves",
+      "dorsal": 15
+      },
+      {
+      "nombre": "Bronny James",
+      "dorsal": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "libros": {
+    "libro": [
+      {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio": 1605
+      },
+      {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "anio": "800 a.C."
+      },
+      {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "anio": 1967
+      },
+      {
+        "titulo": 1984,
+        "autor": "George Orwell",
+        "anio": 1949
+      }
+    ]
+  }
+}

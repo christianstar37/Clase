@@ -1,0 +1,18 @@
+{ 
+  "lenguajes": {
+    "lenguaje": [
+      {
+      "nombre": "Python",
+      "año": 1991,
+      "autores": ["Guido van Rossum"],
+      "compilado": false
+      },
+      {
+      "nombre": "Python",
+      "año": 1991,
+      "autores": ["Guido van Rossum"],
+      "compilado": false
+      }
+    ]
+  }
+}   

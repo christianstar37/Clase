@@ -1,0 +1,29 @@
+{
+    "nombre": "Leonardo Da Vinci",
+    "fechaNacimiento": "15/04/1452",
+    "fechaDefuncion": "02/05/1518",
+    "lugarNacimiento": "Anchiano, Italia",
+    "lugarDefuncion": "Ambroise, Francia",
+    "obras": [
+        {
+            "titulo": "La Gioconda",
+            "añoCreacion": 1503,
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/250px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg"
+        },
+        {
+            "titulo": "La dama de armiño",
+            "añoCreacion": 1489,
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/330px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg"
+        },
+        {
+            "titulo": "La última cena",
+            "añoCreacion": 1495,
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/330px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
+        },
+        {
+            "titulo": "Hombre de Vitruvio",
+            "añoCreacion": 1492,
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitruvian_Man_by_Leonardo_da_Vinci.jpg/330px-Vitruvian_Man_by_Leonardo_da_Vinci.jpg"
+        }
+    ]
+}
