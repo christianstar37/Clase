@@ -1,0 +1,27 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "name": "Juan Pérez",
+        "age": 35,
+        "position": "Senior Developer",
+        "Department": "Technology",
+        "code": "1"
+      },
+      {
+        "name": "María Rodríguez",
+        "age": 28,
+        "position": "Graphic Designer",
+        "Department": "Design",
+        "code": "2"
+      },
+      {
+        "name": "Carlos Gómez",
+        "age": 40,
+        "position": "Project Manager",
+        "Department": "Project Management",
+        "code": "3"
+      }
+    ]
+  }
+}
