@@ -1,0 +1,23 @@
+config:
+  app:
+    name: MiAplicacion
+    enviroment: desarrollo
+    version: 1.0.0
+  server:
+    host: 127.0.0.1
+    port: 8080
+    debug: true
+  database:
+    engine: postgresql
+    host: localhost
+    port: 5432
+    name: miapp_db
+    user: admin
+    password: secreto123
+  logging:
+    level: INFO
+    file: logs/miapp.log
+  features:
+    auth: true
+    caching: false
+    analytics: true
